@@ -1,0 +1,27 @@
+#att{
+    color: white;
+}
+.carousel-inner{
+    width: 200px;
+    margin-top: 30px;
+     border-radius: 80px;
+
+}
+
+#carouselExampleCaptions{
+    width: 900px;
+    margin:auto;
+   
+}
+.carousel-item img{
+    width:200px;
+    height: 420px;
+    
+    
+    
+}
+
+p{
+    text-align: center;
+    font-family: cursive;
+}
